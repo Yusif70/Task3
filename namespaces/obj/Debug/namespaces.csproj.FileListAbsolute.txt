@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\namespaces\namespaces\bin\Debug\namespaces.exe.config
+C:\Users\Lenovo\source\repos\namespaces\namespaces\bin\Debug\namespaces.exe
+C:\Users\Lenovo\source\repos\namespaces\namespaces\bin\Debug\namespaces.pdb
+C:\Users\Lenovo\source\repos\namespaces\namespaces\obj\Debug\namespaces.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\namespaces\namespaces\obj\Debug\namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\namespaces\namespaces\obj\Debug\namespaces.exe
+C:\Users\Lenovo\source\repos\namespaces\namespaces\obj\Debug\namespaces.pdb
